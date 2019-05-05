@@ -2,10 +2,10 @@
 % Please edit documentation in R/windsorize.R
 \name{windsorize}
 \alias{windsorize}
-\title{Windsorize}
+\title{Winsorize}
 \usage{
 windsorize(x, p = 0.9)
 }
 \description{
-Do some windsorization.
+Well it does Win-motherfucking-sorization
 }
